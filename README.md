@@ -37,7 +37,7 @@ I have used sigmoid as the activation function at the hidden layer.
 
 ![image](https://user-images.githubusercontent.com/46073809/55764747-bfcfd480-5a21-11e9-9619-43e516fc8250.png)
 
-### Model
+### Results
 
 #### Classification **WITHOUT** gaussian noise
 
